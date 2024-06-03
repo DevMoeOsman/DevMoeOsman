@@ -11,4 +11,4 @@ MERN Stack: Leveraging the power of MongoDB, Express, React, and Node.js to deve
 
 🎯 Goals: Aiming to be a millionaire to support my family and improve our financial situation, while continuing to innovate and grow as a developer.
 
-📫 Let’s Connect: LinkedIn
+📫 Let’s Code... <3
